@@ -1,1 +1,5 @@
-sdfsdfsffsfsdf
+import yfinance as yf
+
+# Getting the Stocks
+
+s&p500 =
