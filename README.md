@@ -1,1 +1,1 @@
-# Stock-Market-Machine-Learning
+# Stock-Market-Predictor
